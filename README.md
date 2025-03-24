@@ -1,5 +1,8 @@
-# 在线调查系统 (Ajax版)
-
+# 一个简单的在线调查系统 (Ajax版)
+![image](https://github.com/user-attachments/assets/b917d56f-b4be-49e1-b453-66eb94e77b5e)
+ 
+ 
+ ![image](https://github.com/user-attachments/assets/46c6dd91-eaf6-42cc-8728-77b36c047bb4)
 COMP7270 Web和移动编程 & COMP7980 动态Web和移动编程 - HKBU - 2025春季
 
 ## 项目描述
