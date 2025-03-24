@@ -1,0 +1,15 @@
+{
+  "name": "survey-system",
+  "version": "1.0.0",
+  "description": "Online Survey System with Ajax",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "serve": "cd frontend && npm run serve",
+    "build": "cd frontend && npm run build",
+    "install-frontend": "cd frontend && npm install --legacy-peer-deps",
+    "setup": "npm install && npm run install-frontend && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
